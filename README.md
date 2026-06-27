@@ -39,7 +39,7 @@ This extension solves the problem of "context switching" — the time and focus 
 
 - Video Summaries: Taking notes while watching an educational YouTube video or webinar without having to shrink the video window.
 
-- Research & Copy-Pasting: Acting as a "holding zone" to quickly copy and paste quotes, links, and text snippets while researching across multiple different websites.
+- Research & Copy-Pasting: Acting as a "holding zone" to quickly copy and paste quotes, links, and text snippets while researching across multiple <img width="2880" height="1634" alt="image" src="https://github.com/user-attachments/assets/30f4b2cc-84ff-4aa0-a833-11b86cbb4ba6" /> websites.
 
 - Drafting Messages: Writing and formatting a long social media comment, email, or forum post safely before pasting it into the actual site (preventing accidental deletion if the web page reloads).
 
