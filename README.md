@@ -7,13 +7,13 @@
 
 2. Open Google Chrome.
 
-3. Navigate to your extensions management page by entering <i> chrome://extensions/ </i> in the URL address bar.
+3. Navigate to your extensions management page by entering <i style="color: blue;"> chrome://extensions/ </i> in the URL address bar.
 
 4. Turn on Developer mode using the toggle switch located in the top-right corner.
 
 5. Click the Load unpacked button in the top-left corner.
 
-5. Select the <em> toggle_notepad_chorme_extension </em> folder that contains your four files.
+5. Select the <em style="color: blue;"> toggle_notepad_chorme_extension </em> folder that contains your four files.
 
 6. Open any regular website (e.g., wikipedia.org, youtube), click your Extension Puzzle Icon puzzle piece in the upper toolbar, and click Chrome Tabbed Floating Notepad.
 
